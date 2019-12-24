@@ -1,1 +1,1 @@
-# Yaz-l-m-Mimarisi-ve-Tasar-m-Projesi
+# Yazilim Mimarisi Projesi
